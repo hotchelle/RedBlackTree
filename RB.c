@@ -3,7 +3,7 @@
 
 // July 22, 2016 - modified for CLRS, 3rd ed. insertion
 
-//Name: Abdulla Sakallah                                         Student ID: 1001846204
+//Name: Abdulla Sakallah                                         
 // Compiling instructions on Omega:-
 //==================================
 // gcc driver.c
