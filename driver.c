@@ -1,7 +1,8 @@
 // Reads a string for a serialized RB tree, deserializes it,
 // performs some insertions, then serializes the revised tree.
 
-//Name: Abdulla Sakallah                                         Student ID: 1001846204
+//Name: Abdulla Sakallah                                         
+
 // Compiling instructions on Omega:-
 //==================================
 // gcc driver.c
