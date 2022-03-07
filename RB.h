@@ -2,7 +2,7 @@
 
 // These will have to change if data in node is more than just an int.
 
-//Name: Abdulla Sakallah                                         Student ID: 1001846204
+//Name: Abdulla Sakallah                                         
 // Compiling instructions on Omega:-
 //==================================
 // gcc driver.c
